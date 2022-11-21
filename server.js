@@ -19,7 +19,7 @@ let kanal = "784789754570997767" // LOG KANAL
 let ustKanal = "781661216077512714" // YETKİSİ YETMEYİNCE BLABLA
 
 client.on("ready", () => {
-    client.user.setActivity("Dark Paradise 💚 Tokuchi");
+    client.user.setActivity("Poseidon 💚 Ofet");
     console.log(client.user.tag)
 })
 
